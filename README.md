@@ -1,10 +1,10 @@
 Bank Data Analysis
 
-📌 Project Overview
+Project Overview
 
 This project involves analyzing banking data to create a Master Table that consolidates client, account, transaction, loan, and demographic information. The goal is to structure and integrate multiple datasets for efficient querying and insights.
 
-📂 Dataset Description
+Dataset Description
 
 The data consists of multiple relational tables representing different aspects of the banking system:
 
@@ -24,7 +24,7 @@ Credit Cards: Credit card data linked to accounts.
 
 Demographic Data: Publicly available district-level statistics.
 
-🔍 Data Processing & Integration
+Data Processing & Integration
 
 Using SQL:
 
@@ -36,7 +36,7 @@ Integrated demographic data to provide additional insights.
 
 Created a Master Table that consolidates all key banking information.
 
-🛠️ Tools Used
+Tools Used
 
 SQL (MySQL/PostgreSQL) – Data integration, cleaning, and querying.
 
