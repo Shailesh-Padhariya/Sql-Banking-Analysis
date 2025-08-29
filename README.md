@@ -38,7 +38,7 @@ Created a Master Table that consolidates all key banking information.
 
 Tools Used
 
-SQL (MySQL/PostgreSQL) – Data integration, cleaning, and querying.
+SQL (MySQL) – Data integration, cleaning, and querying.
 
 Excel/Pandas – Data verification and validation.
 
